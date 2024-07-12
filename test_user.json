@@ -1,0 +1,39 @@
+{
+  "test_user": [
+    {
+      "name": "Daniel",
+      "fitness goal": "Improve endurance",
+      "age": 17,
+      "weight": 150.0,
+      "height": "6'0"
+    },
+    {
+      "name": "Prashant",
+      "fitness goal": "improve flexibility",
+      "age": 16,
+      "weight": 130.0,
+      "height": "5'4"
+    },
+    {
+      "name": "Austin",
+      "fitness goal": "Muscle gain",
+      "age": 15,
+      "weight": 150.0,
+      "height": "6'2\""
+    },
+    {
+      "name": "Sammy",
+      "fitness goal": "Increase flexibility",
+      "age": 29,
+      "weight": 160.0,
+      "height": "5'10\""
+    },
+    {
+      "name": "Tyler",
+      "fitness goal": "general fitness",
+      "age": 18,
+      "weight": 175.0,
+      "height": "6'5"
+    }
+  ]
+}
